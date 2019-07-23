@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "Dark theme with Nord colors",
+  "version": "0.1",
+  "theme": {
+    "colors": {
+      "frame": [67,76,94],
+      "frame_inactive": [46,52,64],
+      "frame_incognito": [67,76,94],
+      "frame_incognito_inactive": [46,52,64],
+      "background_tab": [67,76,94],
+      "background_tab_inactive": [46,52,64],
+      "background_tab_incognito": [67,76,94],
+      "background_tab_incognito_inactive": [46,52,64],
+      "toolbar": [46,52,64],
+      "toolbar_button_icon": [192,197,206],
+      "bookmark_text": [192,197,206],
+      "tab_background_text": [67,76,94],
+      "tab_background_text_inactive": [67,76,94],
+      "tab_background_text_incognito": [67,76,94],
+      "tab_background_text_incognito_inactive": [67,76,94],
+      "tab_text": [192,197,206],
+      "ntp_background": [46,52,64],
+      "ntp_header": [46,52,64],
+      "ntp_section": [46,52,64],
+      "ntp_text": [255,255,255],
+      "ntp_link": [255,255,255],
+      "button_background": [46,52,64]
+    }
+  }
+}
